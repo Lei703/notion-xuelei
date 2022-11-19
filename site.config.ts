@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'XueLei',
+  domain: 'https://little-sandal-1f8.notion.site/30c189531ef84a1abd4bd52d7b43593a',
+  author: 'xuelei',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
